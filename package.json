@@ -1,5 +1,5 @@
 {
-  "name": "nan",
+  "name": "@axosoft/nan",
   "version": "2.22.0",
   "description": "Native Abstractions for Node.js: C++ header for Node 0.8 -> 23 compatibility",
   "main": "include_dirs.js",
